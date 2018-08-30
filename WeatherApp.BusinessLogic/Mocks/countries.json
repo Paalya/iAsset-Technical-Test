@@ -1,0 +1,103 @@
+[
+	{
+		"id": 1,
+		"name": "Ukraine",
+		"code": "UA"
+	},
+	{
+		"id": 2,
+		"name": "Russia",
+		"code": "RU"
+	},
+	{
+		"id": 3,
+		"name": "Nepal",
+		"code": "NP"
+	},
+	{
+		"id": 4,
+		"name": "India",
+		"code": "IN"
+	},
+	{
+		"id": 5,
+		"name": "Saudi Arabia",
+		"code": "SA"
+	},
+	{
+		"id": 6,
+		"name": "Afganistan",
+		"code": "AF"
+	},
+	{
+		"id": 7,
+		"name": "Albania",
+		"code": "AL"
+	},
+	{
+		"id": 8,
+		"name": "Australia",
+		"code": "AU"
+	},
+	{
+		"id": 9,
+		"name": "Argentina",
+		"code": "AR"
+	},
+	{
+		"id": 10,
+		"name": "Brazil",
+		"code": "BR"
+	},
+
+	{
+		"id": 11,
+		"name": "Canada",
+		"code": "CA"
+	},
+	{
+		"id": 12,
+		"name": "China",
+		"code": "CN"
+	},
+	{
+		"id": 13,
+		"name": "Denmark",
+		"code": "DK"
+	},
+	{
+		"id": 14,
+		"name": "Egypt",
+		"code": "EG"
+	},
+	{
+		"id": 15,
+		"name": "France",
+		"code": "FR"
+	},
+	{
+		"id": 16,
+		"name": "Finland",
+		"code": "FI"
+	},
+	{
+		"id": 17,
+		"name": "Japan",
+		"code": "JP"
+	},
+	{
+		"id": 18,
+		"name": "United States of America",
+		"code": "US"
+	},
+	{
+		"id": 19,
+		"name": "Qatar",
+		"code": "QA"
+	},
+	{
+		"id": 20,
+		"name": "Philippines",
+		"code": "PH"
+	}
+]
